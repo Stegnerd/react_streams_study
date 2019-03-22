@@ -1,8 +1,8 @@
 {
   "streams": [
     {
-      "title": "first stream",
-      "description": "this is  the second try",
+      "title": "I created this stream",
+      "description": "this was made by me",
       "id": 1
     },
     {
@@ -10,6 +10,18 @@
       "description": "this was made by me",
       "userId": "113417585806225306518",
       "id": 2
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "didn't expect that",
+      "userId": "113417585806225306518",
+      "id": 3
+    },
+    {
+      "title": "redirect me!",
+      "description": "wow that worked!",
+      "userId": "113417585806225306518",
+      "id": 4
     }
   ]
 }
